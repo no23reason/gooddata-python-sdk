@@ -1,0 +1,14 @@
+# (C) 2025 GoodData Corporation
+version: v2
+managed:
+  enabled: true
+plugins:
+  # needs runtime code 5.28 or greater
+  - remote: buf.build/protocolbuffers/python:v28.3
+    out: .
+  - local: protoc-gen-mypy
+    out: .
+  - remote: buf.build/grpc/python:v1.68.0
+    out: .
+  - local: protoc-gen-mypy_grpc
+    out: .
