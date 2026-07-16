@@ -1,0 +1,33 @@
+packages/gooddata-flight-server/tests/tasks/test_task_executor.py
+  s_55b3d82e6b4698::t_41aea9804a858d 3-4,9,16-22
+  h_332e1a220049c7 169,178
+  s_55b3d82e6b4698::t_89c9fb338d88c0 146-168,170-177,179-187
+  s_55b3d82e6b4698::t_3c47e9eeead1d2 65-76
+  s_55b3d82e6b4698::t_fa3cd1aff80eef 23-24
+packages/gooddata-flight-server/src/gooddata_flight_server/tasks/thread_task_executor.py
+  s_55b3d82e6b4698::t_337cd451476e6e 193-196
+  s_55b3d82e6b4698::t_b1390627edb911 243
+  s_55b3d82e6b4698::t_9173c9d7da8980 300-313
+  s_55b3d82e6b4698::t_e7445a3207e686 161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "30fe90e8c5f4367b5059c36d38443a5347dd2f5e",
+  "prompts": {},
+  "humans": {
+    "h_332e1a220049c7": {
+      "author": "Dan Homola <dan.homola@gooddata.com>"
+    }
+  },
+  "sessions": {
+    "s_55b3d82e6b4698": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "20348d50-7489-4864-8ee9-541431282190",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dan Homola <dan.homola@gooddata.com>"
+    }
+  }
+}
