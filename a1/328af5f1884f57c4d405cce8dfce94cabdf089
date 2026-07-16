@@ -1,21 +1,12 @@
 packages/gooddata-pandas/src/gooddata_pandas/arrow_convertor.py
-  s_55b3d82e6b4698::t_6653438a7d033d 668-671,678-681,681-684,683,686-689,691-694,696,699-702
-  s_55b3d82e6b4698::t_c300bf3d4bb3f8 667,680
-  h_332e1a220049c7 110-111,119-120,433-435,440,446-448,453,465,478,558,571,745,758,829,842
-  s_55b3d82e6b4698::t_54d523cdfc8384 10
-  s_55b3d82e6b4698::t_4f88cde917a657 106,113,117,121
-  s_55b3d82e6b4698::t_5d68fd4f22c709 101,105,108-109,112,114-116,118,122-124
-packages/gooddata-pandas/src/gooddata_pandas/utils.py
-  h_332e1a220049c7 45,46
-  s_55b3d82e6b4698::t_bedac8c450fc1b 45
-  s_55b3d82e6b4698::t_0e1dba1c39882a 47-50,52
-packages/gooddata-pandas/src/gooddata_pandas/data_access.py
-  h_332e1a220049c7 401-402
+  s_55b3d82e6b4698::t_6653438a7d033d 696-697,708-711,713,716-719
+  s_55b3d82e6b4698::t_d4bbd2dcf86123 681-687,691-695,698-701
+  s_55b3d82e6b4698::t_ed72fafe79c2c0 703-706
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.14",
-  "base_commit_sha": "24a8a2d135efade84ac6bb1a5092ef080eb84503",
+  "base_commit_sha": "a1328af5f1884f57c4d405cce8dfce94cabdf089",
   "prompts": {},
   "humans": {
     "h_332e1a220049c7": {
@@ -29,7 +20,7 @@ packages/gooddata-pandas/src/gooddata_pandas/data_access.py
         "id": "20348d50-7489-4864-8ee9-541431282190",
         "model": "claude-opus-4-8"
       },
-      "human_author": "Dan Homola <dan.homola@gooddata.com>"
+      "human_author": null
     }
   }
 }
