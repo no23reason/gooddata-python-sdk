@@ -1,0 +1,24 @@
+packages/gooddata-flight-server/src/gooddata_flight_server/server/flight_rpc/server_methods.py
+  s_55b3d82e6b4698::t_d5f20b8af615d6 104-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "818cdff50c9843972bfe4ac067dd46a5b6c69e53",
+  "prompts": {},
+  "humans": {
+    "h_332e1a220049c7": {
+      "author": "Dan Homola <dan.homola@gooddata.com>"
+    }
+  },
+  "sessions": {
+    "s_55b3d82e6b4698": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "20348d50-7489-4864-8ee9-541431282190",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dan Homola <dan.homola@gooddata.com>"
+    }
+  }
+}
