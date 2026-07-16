@@ -1,8 +1,14 @@
 packages/gooddata-pandas/src/gooddata_pandas/data_access.py
   s_55b3d82e6b4698::t_7a99d459a7a369 401-411,419,423
   s_55b3d82e6b4698::t_e254021102a1d0 343,345,349,352,357
+  s_55b3d82e6b4698::t_11bbee43f15ab7 28
 packages/gooddata-pandas/tests/utils/test_data_access_paging.py
   s_55b3d82e6b4698::t_5e9536e8f7787b 1-77
+packages/gooddata-pandas/src/gooddata_pandas/utils.py
+  s_55b3d82e6b4698::t_758fa5386f0766 6,19-25,34-38,39-44
+  s_55b3d82e6b4698::t_6a7573fc8bcf16 196-214,217-218,220-221
+  s_55b3d82e6b4698::t_6ab8a5e71629cf 215-216,219
+  s_55b3d82e6b4698::t_66475b8061dc5d 54
 ---
 {
   "schema_version": "authorship/3.0.0",

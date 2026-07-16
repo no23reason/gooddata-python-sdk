@@ -3,6 +3,8 @@ packages/gooddata-pandas/src/gooddata_pandas/arrow_convertor.py
   s_55b3d82e6b4698::t_c300bf3d4bb3f8 668
 packages/gooddata-pandas/src/gooddata_pandas/utils.py
   h_332e1a220049c7 45
+  s_55b3d82e6b4698::t_bedac8c450fc1b 45
+  s_55b3d82e6b4698::t_0e1dba1c39882a 46-53,55
 ---
 {
   "schema_version": "authorship/3.0.0",
