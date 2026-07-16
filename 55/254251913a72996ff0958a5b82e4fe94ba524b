@@ -1,0 +1,14 @@
+packages/gooddata-pandas/src/gooddata_pandas/data_access.py
+  h_332e1a220049c7 401-402
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "55254251913a72996ff0958a5b82e4fe94ba524b",
+  "prompts": {},
+  "humans": {
+    "h_332e1a220049c7": {
+      "author": "Dan Homola <dan.homola@gooddata.com>"
+    }
+  }
+}
