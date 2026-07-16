@@ -1,0 +1,14 @@
+packages/gooddata-pandas/src/gooddata_pandas/arrow_convertor.py
+  h_332e1a220049c7 466,559,748,832
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "de31a04e018489cde1c5bc8fbe8f07df25a0171d",
+  "prompts": {},
+  "humans": {
+    "h_332e1a220049c7": {
+      "author": "Dan Homola <dan.homola@gooddata.com>"
+    }
+  }
+}
