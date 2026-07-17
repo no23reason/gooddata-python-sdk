@@ -1,0 +1,21 @@
+packages/gooddata-pandas/src/gooddata_pandas/arrow_convertor.py
+  s_55b3d82e6b4698::t_3f36027fb40331 704-705
+  s_55b3d82e6b4698::t_d9e40abc3bb75b 448-449,451-452,456-457
+  s_55b3d82e6b4698::t_1a0975590b9cae 699-701,703
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "295b9e91b56d4551bfa0d35128371a67f50fff16",
+  "prompts": {},
+  "sessions": {
+    "s_55b3d82e6b4698": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "20348d50-7489-4864-8ee9-541431282190",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dan Homola <dan.homola@gooddata.com>"
+    }
+  }
+}
