@@ -1,0 +1,18 @@
+packages/gooddata-sdk/pyproject.toml
+  h_332e1a220049c7 35
+packages/gooddata-dbt/pyproject.toml
+  h_332e1a220049c7 17
+uv.lock
+  h_332e1a220049c7 826,1253,2586,2594,2596
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "049bc4a1c07ab6e2f4e5f11617d708270b22e4fa",
+  "prompts": {},
+  "humans": {
+    "h_332e1a220049c7": {
+      "author": "Dan Homola <dan.homola@gooddata.com>"
+    }
+  }
+}
