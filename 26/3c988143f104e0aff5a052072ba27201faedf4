@@ -1,0 +1,18 @@
+pyproject.toml
+  h_332e1a220049c7 21
+.pre-commit-config.yaml
+  h_332e1a220049c7 38,44
+uv.lock
+  h_332e1a220049c7 2,249,251,253,366,368,370
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3ae0145aa330519ff377135471a8734329d57f2a",
+  "prompts": {},
+  "humans": {
+    "h_332e1a220049c7": {
+      "author": "Dan Homola <dan.homola@gooddata.com>"
+    }
+  }
+}
