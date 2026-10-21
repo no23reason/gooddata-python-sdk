@@ -1,9 +1,9 @@
 pyproject.toml
   h_332e1a220049c7 21
 .pre-commit-config.yaml
-  h_332e1a220049c7 38
+  h_332e1a220049c7 38,44
 uv.lock
-  h_332e1a220049c7 2,249,251,253
+  h_332e1a220049c7 2,249,251,253,366,368,370
 ---
 {
   "schema_version": "authorship/3.0.0",
