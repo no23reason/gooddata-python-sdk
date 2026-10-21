@@ -1,0 +1,20 @@
+.pre-commit-config.yaml
+  h_332e1a220049c7 44
+pyproject.toml
+  h_332e1a220049c7 21
+uv.lock
+  h_332e1a220049c7 366,368,370
+Dockerfile
+  h_332e1a220049c7 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "263c988143f104e0aff5a052072ba27201faedf4",
+  "prompts": {},
+  "humans": {
+    "h_332e1a220049c7": {
+      "author": "Dan Homola <dan.homola@gooddata.com>"
+    }
+  }
+}
